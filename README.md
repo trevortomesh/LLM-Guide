@@ -17,8 +17,18 @@ teaching and learning outcomes. 
 As such, I encourage you to experiment and learn from LLM's so long as these tools do not become obstacles in the way of your learning
 outcomes. 
 
+## Dr. T's LLM Policy:
+As my student you *are permitted* to use an LLM (such as ChatGPT) with the following restrictions:
+- Unless otherwise indicated, you must not use an LLM on quizzes or exams.
+- You must properly cite the user of an LLM (see sections 2 and 3 of the LLM Guide).
+- Your grade will reflect the amount (and quality) of original work you have put in. Even if you've cited your source(s) adequately,
+if you turn in an assignment that was completely LLM generated, **you will receive a zero**.
+- All submissions are subject (at my discretion) to scrutiny for evidence of LLM usage, even submissions that do not acknowledge
+the use of an LLM. 
+- LLM use in violation of this policy is subject to academic penalty measures consistent with the UW system policy on plagiarism.
+
 In order to uphold the high academic integrity standards expected of a student at the University of Wisconsin - River Falls, you should 
-familiarize yourself with the following course policies pertaining to the use of LLM's:
+familiarize yourself with the following guidelines pertaining to the use of LLM's:
 
 ## 1) Be honest. 
 The fundamental issue underlying most academic misconduct is dishonesty. Copying work from another student, commissioning
