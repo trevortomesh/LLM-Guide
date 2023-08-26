@@ -1,6 +1,6 @@
 # ChatGPT and Academia -- A Working Guide
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height = "200px">
 <p>
 Authors: Dr. Trevor M. Tomesh and ChatGPT <br>
 Contact: trevor.tomesh@uwrf.edu <br>
