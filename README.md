@@ -21,22 +21,22 @@ outcomes. 
 ## Dr. T's LLM Policy:
 As my student you *are permitted* to use an LLM (such as ChatGPT) with the following restrictions:
 - Unless otherwise indicated, you must not use an LLM on quizzes or exams.
-- You must properly cite the user of an LLM (see sections 2 and 3 of the LLM Guide).
-- Your grade will reflect the amount (and quality) of original work you have put in. Even if you've cited your source(s) adequately,
+- You must properly cite the use of an LLM (see sections 2 and 3 of the LLM Guide).
+- Your grade will reflect the amount (and quality) of original work you have put in. Even if you've cited your source(s) adequately
 if you turn in an assignment that was completely LLM generated, **you will receive a zero**.
 - All submissions are subject (at my discretion) to scrutiny for evidence of LLM usage, even submissions that do not acknowledge
 the use of an LLM. 
 - LLM use in violation of this policy is subject to academic penalty measures consistent with the UW system policy on plagiarism.
 
-In order to uphold the high academic integrity standards expected of a student at the University of Wisconsin - River Falls, you should 
+In order to uphold the high academic integrity standards expected of a student at the University of Wisconsin-River Falls, you should 
 familiarize yourself with the following guidelines pertaining to the use of LLM's:
 
 ## 1) Be honest. 
 The fundamental issue underlying most academic misconduct is dishonesty. Copying work from another student, commissioning
 another person to write a paper, and using an LLM to complete work without proper attribution are examples of dishonest behavior. The understanding
 when one submits an assignment or takes an exam or quiz is that the work being submitted has been done by the submitter unless noted otherwise. 
-Without proper acknowledgment that this is not the case, a misrepresentation of the truth has been committed and therefore academic misconduct has
-been committed. If an LLM is used to any significant degree to complete a homework assignment, it should be acknowledged how the LLM was used, why it was used and where it was used.
+Without proper acknowledgment that this is not the case, a misrepresentation of the truth has been committed, and therefore academic misconduct has
+been committed. If an LLM is used to any significant degree to complete a homework assignment, it should be acknowledged how the LLM was used, why it was used, and where it was used.
 
 ## 2) Give credit.
 As with any source of knowledge that does not directly come from the author of a given piece, LLM's should be given credit as a source of knowledge. You may cite LLM's such as ChatGPT like so:
@@ -51,7 +51,7 @@ Here's an example of how the citation would look:
 > OpenAI. (2023). Citing ChatGPT. ChatGPT (Version 4). Retrieved from *https://chat.openai.com*
 
 
-## 3) **Describe what, how and why and where.** 
+## 3) **Describe what, how and why, and where.** 
 There are several different ways that LLM's may be used to help with coursework. ChatGPT is useful to check spelling and grammar. It may also be used to debug code with stubborn issues. Maybe it is used to write an algorithm. However an LLM is used, it must be stated clearly *what* it was used for, *how* it was used and *why* it was used and *where* it was used. This may simply mean including a footnote at the end of a submission stating something to the effect of: 
 
 >I would like to acknowledge the use of ChatGPT for the purposes of correction of grammar and spelling errors as well as suggestions for stylistic improvements. 
@@ -68,13 +68,13 @@ Followed by the appropriate citation in the references:
 > chat.openai.com. chat.openai.com
 
 ## 4) Understanding First
-The entire purpose of a university education is to learn *how to think*. Therefore, to appropriately use a tool like ChatGPT, it is critical that you first seek to understand the concepts behind the solutions. LLM's are useful for giving detailed explanations and may be used not only to generate solutions, but to aide in the understanding of these solutions. This may take a little prompt engineering. For example, you might simply ask ChatGPT the following:
+The entire purpose of a university education is to learn *how to think*. Therefore, to appropriately use a tool like ChatGPT, it is critical that you first seek to understand the concepts behind the solutions. LLM's are useful for giving detailed explanations and may be used not only to generate solutions but to aid in the understanding of these solutions. This may take a little prompt engineering. For example, you might simply ask ChatGPT the following:
 
-> Write me an algorithm in python that finds clusters of data.
+> Write me an algorithm in Python that finds clusters of data.
 
 To which it will respond with just a code listing. However, if you want to understand how the algorithm works, you might try this prompt:
 
-> Write me an algorithm in python that finds clusters of data. Explain the program step-by-step like a tutor so I can understand the fundamental concepts behind the algorithm.
+> Write me an algorithm in Python that finds clusters of data. Explain the program step-by-step like a tutor so I can understand the fundamental concepts behind the algorithm.
 
 This will give you a detailed explanation of the algorithm. You can always ask follow-up questions if you are still unsure.
 
@@ -82,7 +82,7 @@ In summary: seek understanding first, then proceed with implementation.
 
 ## 5) Don't trust the robots!
 Large Language Models are just that -- models. In the legendary words of George E. P. Box -- [“All models are wrong, but some are useful”.](https://www.lacan.upc.edu/admoreWeb/2018/05/all-models-are-wrong-but-some-are-useful-george-e-p-box/#:~:text=“All%20models%20are%20wrong%2C%20but%20some%20are%20useful”%20is,British%20statistician%20George%20E.%20P.%20Box.)
-LLM's like ChatGPT are not intelligent beings. They do not "think". They do not have a conscience or consciousness. LLM's are merely mimicking human language while simultaneously pulling information from a massive set of data. As such LLM's can be -- and frequently are -- incorrect. You should *always* use your own judgement when dealing with the output of an LLM. Furthermore, you should not trust the output of an LLM to be unbiased. The quality of models are only as good as the data upon which they are trained. 
+LLM's like ChatGPT are not intelligent beings. They do not "think". They do not have a conscience or consciousness. LLM's are merely mimicking human language while simultaneously pulling information from a massive set of data. As such LLM's can be -- and frequently are -- incorrect. You should *always* use your own judgment when dealing with the output of an LLM. Furthermore, you should not trust the output of an LLM to be unbiased. The quality of models is only as good as the data upon which they are trained. 
 
 ## 6) Keep receipts.
 There may come a time when you are asked to prove that you've used an LLM in the way you've claimed. There may also come a time when you are asked what prompt you used to produce a solution. You should, therefore, always keep a record of the conversations you have had with your LLM. You should always store your LLM chats somewhere with long-term storage as these chats are usually only retained for a limited time. ChatGPT (as of this writing) claims to only retain logs for 30 days. Better yet, you may be able to attach your relevant chat logs as an appendix to your work!
